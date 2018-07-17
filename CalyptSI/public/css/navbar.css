@@ -1,0 +1,13 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  padding-bottom: 20px;
+  background-image: url(/images/bg.jpg);
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
